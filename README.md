@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam currently working as a junior python developer in Noviindus technologies 
+Iam currently working as a Freelancer
 
 
 ## 🌐 Socials:
