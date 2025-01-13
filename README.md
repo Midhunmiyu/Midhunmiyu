@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam currently working as a Freelancer
+Iam currently working as a Software Developer in Amrita School For Sustainable Futures
 
 
 ## 🌐 Socials:
