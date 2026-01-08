@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Software Developer at **Amrita School For Sustainable Futures**. I specialize in building scalable backend systems, automating infrastructure with DevOps, and building AI agents.
+Python Django Developer with 2+ years of experience building and deploying production-grade Django applications. Strong expertise in REST APIs, async task processing, CI/CD pipelines, and containerized deployments. Experienced in performance optimization, data-driven systems, and maintaining scalable backend services in real-world production environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhunraj112/) 
